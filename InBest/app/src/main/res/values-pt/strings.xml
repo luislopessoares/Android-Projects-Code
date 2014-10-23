@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Textos gerais -->
+    <string name="nome_aplicacao">InBest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_definicoes">Definições</string>
+    <!-- Menus principais -->
+
+    <!-- Botões -->
+    <string name="enviar">Enviar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="detalhes">Detalhes</string>
+
+
+</resources>
